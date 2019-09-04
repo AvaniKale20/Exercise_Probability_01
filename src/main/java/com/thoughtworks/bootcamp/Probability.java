@@ -1,11 +1,11 @@
 package com.thoughtworks.bootcamp;
 
 public class Probability {
-    private  float EventOne;
+    private float EventOne;
 
 
     public Probability(float EventOne) {
-        this.EventOne=EventOne;
+        this.EventOne = EventOne;
     }
 
     public float EqualityOfEvents() {
